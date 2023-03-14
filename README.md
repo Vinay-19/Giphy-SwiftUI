@@ -24,3 +24,11 @@ The following points were taken into consideration during the development of the
 -> open Giphy.xcodeproj
 -> wait for Package Dependencies to download
 -> Run app in simulator/physical device
+
+# Screenshots
+<img width="300" alt="Screenshot 2023-03-14 at 12 57 55 AM" src="https://user-images.githubusercontent.com/100095957/224898889-7c3edfa7-4392-44f0-b19f-a8a97208675b.png">       <img width="300" alt="Screenshot 2023-03-14 at 12 58 13 AM" src="https://user-images.githubusercontent.com/100095957/224899047-e37fd9c1-0015-4fac-a402-3e076dfb237c.png"> 
+
+<img width="300" alt="Screenshot 2023-03-14 at 12 58 24 AM" src="https://user-images.githubusercontent.com/100095957/224899509-ff7a3f29-7635-4327-ac34-ee400a724ddc.png">  <img width="300" alt="Screenshot 2023-03-14 at 12 58 58 AM" src="https://user-images.githubusercontent.com/100095957/224899539-3b733e51-50db-4c63-b169-1eca17fe30ce.png">
+
+
+

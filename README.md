@@ -14,7 +14,7 @@ The following points were taken into consideration during the development of the
   4. Well-Documented and well-structured codebase.
   5. Added test cases to cover business logic and mocked api response.
   6. Stored favourite gifs in file storage on a background thread.
-  7. Utilized open source Giphy APIs: 1. Trending gifs 1. Search Gif.
+  7. Utilized open source Giphy APIs: 1. Trending gifs 2. Search Gif.
 
 # Build tools & versions used
   Xcode version: 14.2
